@@ -1,0 +1,7 @@
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExeProcFunc\PrjExeProcFunc\PrjExeProcFunc\bin\Debug\PrjExeProcFunc.exe
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExeProcFunc\PrjExeProcFunc\PrjExeProcFunc\bin\Debug\PrjExeProcFunc.pdb
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExeProcFunc\PrjExeProcFunc\PrjExeProcFunc\obj\x86\Debug\PrjExeProcFunc.frmExemplo.resources
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExeProcFunc\PrjExeProcFunc\PrjExeProcFunc\obj\x86\Debug\PrjExeProcFunc.Properties.Resources.resources
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExeProcFunc\PrjExeProcFunc\PrjExeProcFunc\obj\x86\Debug\PrjExeProcFunc.csproj.GenerateResource.Cache
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExeProcFunc\PrjExeProcFunc\PrjExeProcFunc\obj\x86\Debug\PrjExeProcFunc.exe
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExeProcFunc\PrjExeProcFunc\PrjExeProcFunc\obj\x86\Debug\PrjExeProcFunc.pdb

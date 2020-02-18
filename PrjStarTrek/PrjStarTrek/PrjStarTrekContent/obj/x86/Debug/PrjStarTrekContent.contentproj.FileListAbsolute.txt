@@ -1,0 +1,8 @@
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 02\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrekContent\obj\x86\Debug\PrjStarTrekContent.contentprojResolveAssemblyReference.cache
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrekContent\obj\x86\Debug\PrjStarTrekContent.contentprojResolveAssemblyReference.cache
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrekContent\obj\x86\Debug\PrjStarTrekContent.contentprojResolveAssemblyReference.cache
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrekContent\obj\x86\Debug\PrjStarTrekContent.contentprojResolveAssemblyReference.cache
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrekContent\obj\x86\Debug\PrjStarTrekContent.contentprojResolveAssemblyReference.cache
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrekContent\obj\x86\Debug\PrjStarTrekContent.contentprojResolveAssemblyReference.cache
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrekContent\obj\x86\Debug\PrjStarTrekContent.contentprojResolveAssemblyReference.cache
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrekContent\obj\x86\Debug\PrjStarTrekContent.contentprojResolveAssemblyReference.cache

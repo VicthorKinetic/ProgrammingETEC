@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\enterprise_anim_sprite.png</Source>
+      <Name>images\enterprise_anim_sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb</Output>
+      <Time>2015-11-09T09:51:44.0794959-02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\enterprise_sprite.png</Source>
+      <Name>images\enterprise_sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb</Output>
+      <Time>2015-11-09T09:51:44.0638694-02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\mine_anim_sprite.png</Source>
+      <Name>images\mine_anim_sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine_anim_sprite.xnb</Output>
+      <Time>2015-11-23T14:05:28.9726457-02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\mine.png</Source>
+      <Name>images\mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine.xnb</Output>
+      <Time>2015-11-23T14:11:19.3549156-02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\fundo_camada_1.png</Source>
+      <Name>images\fundo_camada_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_1.xnb</Output>
+      <Time>2015-11-23T14:48:31.1422882-02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\fundo_camada_2.png</Source>
+      <Name>images\fundo_camada_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_2.xnb</Output>
+      <Time>2015-11-23T14:48:31.1442912-02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\fundo_camada_3.png</Source>
+      <Name>images\fundo_camada_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_3.xnb</Output>
+      <Time>2015-11-23T14:48:31.1463215-02:00</Time>
+    </Item>
+    <Item>
+      <Source>images\phaser.png</Source>
+      <Name>images\phaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\phaser.xnb</Output>
+      <Time>2015-11-30T09:38:36.3106897-02:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\fonte.spritefont</Source>
+      <Name>fonts\fonte</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\fonts\fonte.xnb</Output>
+      <Time>2015-11-30T10:42:00.8608629-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0AE6B748-CEB6-4D8D-8BF4-56CA2D0FBAFE}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrekContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-07-28T22:35:33.0229161-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

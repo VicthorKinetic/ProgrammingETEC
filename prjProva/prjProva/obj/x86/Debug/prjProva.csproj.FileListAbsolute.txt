@@ -1,0 +1,7 @@
+C:\Users\p12\Desktop\prjProva\prjProva\obj\x86\Debug\prjProva.Form1.resources
+C:\Users\p12\Desktop\prjProva\prjProva\obj\x86\Debug\prjProva.Properties.Resources.resources
+C:\Users\p12\Desktop\prjProva\prjProva\obj\x86\Debug\prjProva.csproj.GenerateResource.Cache
+C:\Users\p12\Desktop\prjProva\prjProva\bin\Debug\prjProva.exe
+C:\Users\p12\Desktop\prjProva\prjProva\bin\Debug\prjProva.pdb
+C:\Users\p12\Desktop\prjProva\prjProva\obj\x86\Debug\prjProva.exe
+C:\Users\p12\Desktop\prjProva\prjProva\obj\x86\Debug\prjProva.pdb

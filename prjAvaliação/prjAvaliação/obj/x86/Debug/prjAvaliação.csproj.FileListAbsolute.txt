@@ -1,0 +1,7 @@
+C:\Users\p38\Desktop\prjAvaliação\prjAvaliação\obj\x86\Debug\prjAvaliação.Velocidade.resources
+C:\Users\p38\Desktop\prjAvaliação\prjAvaliação\obj\x86\Debug\prjAvaliação.Properties.Resources.resources
+C:\Users\p38\Desktop\prjAvaliação\prjAvaliação\obj\x86\Debug\prjAvaliação.csproj.GenerateResource.Cache
+C:\Users\p38\Desktop\prjAvaliação\prjAvaliação\bin\Debug\prjAvaliação.exe
+C:\Users\p38\Desktop\prjAvaliação\prjAvaliação\bin\Debug\prjAvaliação.pdb
+C:\Users\p38\Desktop\prjAvaliação\prjAvaliação\obj\x86\Debug\prjAvaliação.exe
+C:\Users\p38\Desktop\prjAvaliação\prjAvaliação\obj\x86\Debug\prjAvaliação.pdb

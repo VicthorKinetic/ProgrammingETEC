@@ -1,0 +1,8 @@
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\prjGoogle\prjGoogle\bin\Debug\prjGoogle.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\prjGoogle\prjGoogle\bin\Debug\prjGoogle.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\prjGoogle\prjGoogle\obj\x86\Debug\prjGoogle.Google.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\prjGoogle\prjGoogle\obj\x86\Debug\prjGoogle.Properties.Resources.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\prjGoogle\prjGoogle\obj\x86\Debug\prjGoogle.csproj.GenerateResource.Cache
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\prjGoogle\prjGoogle\obj\x86\Debug\prjGoogle.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\prjGoogle\prjGoogle\obj\x86\Debug\prjGoogle.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\prjGoogle\prjGoogle\obj\x86\Debug\prjGoogle.csprojResolveAssemblyReference.cache

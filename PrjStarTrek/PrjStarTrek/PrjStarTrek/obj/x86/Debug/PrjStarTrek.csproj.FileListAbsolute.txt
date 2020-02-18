@@ -1,0 +1,103 @@
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 01\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.csprojResolveAssemblyReference.cache
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 01\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 01\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 01\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 01\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 01\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.pdb
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 01\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 01\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.pdb
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 02\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 02\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 02\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 02\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.pdb
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 02\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.csprojResolveAssemblyReference.cache
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 02\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 02\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Projeto Star Trek XNA\Aula 02\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.pdb
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine_anim_sprite.xnb
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.pdb
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.csprojResolveAssemblyReference.cache
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.pdb
+C:\Users\proff_000\Desktop\Aula 04 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine.xnb
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine_anim_sprite.xnb
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine.xnb
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.pdb
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.csprojResolveAssemblyReference.cache
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Aula 05 - Inimigo com Animação e Movimento Horizontal\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.pdb
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.csprojResolveAssemblyReference.cache
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine_anim_sprite.xnb
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine.xnb
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.exe
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.pdb
+C:\Users\proff_000\Desktop\Aula 06 - Múltiplas Instancias de Inimigo\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.pdb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine_anim_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_1.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_2.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_3.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.exe
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.pdb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.csprojResolveAssemblyReference.cache
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.exe
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 07 - Fundo Animado\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.pdb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine_anim_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_1.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_2.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_3.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\phaser.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.exe
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.pdb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.csprojResolveAssemblyReference.cache
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.exe
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Ataque\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.pdb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine_anim_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_1.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_2.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_3.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\phaser.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.exe
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.pdb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.csprojResolveAssemblyReference.cache
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.exe
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.pdb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 08 - Colisoes Player x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\fonts\fonte.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_anim_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\enterprise_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine_anim_sprite.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\mine.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_1.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_2.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\fundo_camada_3.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\images\phaser.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\Content\fonts\fonte.xnb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.exe
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\bin\x86\Debug\PrjStarTrek.pdb
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.csprojResolveAssemblyReference.cache
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.exe
+C:\Trabalho\ETE\ETE2015\2SEM2015\1J2\SDP\ETAPAS JOGO STARTREK XNA\Aula 10 - Colisoes Phasers x Inimigos\PrjStarTrek\PrjStarTrek\PrjStarTrek\PrjStarTrek\obj\x86\Debug\PrjStarTrek.pdb

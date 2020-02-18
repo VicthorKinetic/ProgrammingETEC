@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Player_Animation.png</Source>
+      <Name>Images\Player_Animation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\ETEC\Freddy\GG\GG\GG\bin\x86\Debug\Content\Images\Player_Animation.xnb</Output>
+      <Time>2015-12-01T23:20:06-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Player_sprite.png</Source>
+      <Name>Images\Player_sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\ETEC\Freddy\GG\GG\GG\bin\x86\Debug\Content\Images\Player_sprite.xnb</Output>
+      <Time>2015-12-01T22:55:32-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemy_Sprite.png</Source>
+      <Name>Images\Enemy_Sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\ETEC\Freddy\GG\GG\GG\bin\x86\Debug\Content\Images\Enemy_Sprite.xnb</Output>
+      <Time>2015-12-03T14:16:50-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Enemy_Animation.png</Source>
+      <Name>Images\Enemy_Animation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\ETEC\Freddy\GG\GG\GG\bin\x86\Debug\Content\Images\Enemy_Animation.xnb</Output>
+      <Time>2015-12-07T15:04:40-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bullet.png</Source>
+      <Name>Images\Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>L:\ETEC\Freddy\GG\GG\GG\bin\x86\Debug\Content\Images\Bullet.xnb</Output>
+      <Time>2015-12-07T14:22:44-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>L:\ETEC\Freddy\GG\GG\GGContent\</RootDirectory>
+      <LoggerRootDirectory>L:\ETEC\Freddy\GG\GG\GG\</LoggerRootDirectory>
+      <IntermediateDirectory>L:\ETEC\Freddy\GG\GG\GGContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>L:\ETEC\Freddy\GG\GG\GG\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-10-02T18:20:45.7665044-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

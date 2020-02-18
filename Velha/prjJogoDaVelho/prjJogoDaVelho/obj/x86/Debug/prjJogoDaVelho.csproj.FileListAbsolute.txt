@@ -1,0 +1,16 @@
+C:\Users\29622\Desktop\prjJogoDaVelho\prjJogoDaVelho\bin\Debug\prjJogoDaVelho.exe
+C:\Users\29622\Desktop\prjJogoDaVelho\prjJogoDaVelho\bin\Debug\prjJogoDaVelho.pdb
+C:\Users\29622\Desktop\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.Form1.resources
+C:\Users\29622\Desktop\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.Properties.Resources.resources
+C:\Users\29622\Desktop\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.csproj.GenerateResource.Cache
+C:\Users\29622\Desktop\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.exe
+C:\Users\29622\Desktop\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.pdb
+F:\ETEC\Programação\Velha\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.exe
+F:\ETEC\Programação\Velha\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.pdb
+F:\ETEC\Programação\Velha\prjJogoDaVelho\prjJogoDaVelho\bin\Debug\prjJogoDaVelho.exe
+F:\ETEC\Programação\Velha\prjJogoDaVelho\prjJogoDaVelho\bin\Debug\prjJogoDaVelho.pdb
+F:\ETEC\Programação\Velha\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.Form1.resources
+F:\ETEC\Programação\Velha\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.Properties.Resources.resources
+F:\ETEC\Programação\Velha\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.csproj.GenerateResource.Cache
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\Velha\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\Velha\prjJogoDaVelho\prjJogoDaVelho\obj\x86\Debug\prjJogoDaVelho.pdb

@@ -1,0 +1,16 @@
+C:\Users\29622\Desktop\PrjGoogleHard\PrjGoogleHard\bin\Debug\PrjGoogleHard.exe
+C:\Users\29622\Desktop\PrjGoogleHard\PrjGoogleHard\bin\Debug\PrjGoogleHard.pdb
+C:\Users\29622\Desktop\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.GoogleHard.resources
+C:\Users\29622\Desktop\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.Properties.Resources.resources
+C:\Users\29622\Desktop\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.csproj.GenerateResource.Cache
+C:\Users\29622\Desktop\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.exe
+C:\Users\29622\Desktop\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.pdb
+F:\ETEC\Programação\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.exe
+F:\ETEC\Programação\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjGoogleHard\PrjGoogleHard\bin\Debug\PrjGoogleHard.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjGoogleHard\PrjGoogleHard\bin\Debug\PrjGoogleHard.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.GoogleHard.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.Properties.Resources.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjGoogleHard\PrjGoogleHard\obj\x86\Debug\PrjGoogleHard.csproj.GenerateResource.Cache

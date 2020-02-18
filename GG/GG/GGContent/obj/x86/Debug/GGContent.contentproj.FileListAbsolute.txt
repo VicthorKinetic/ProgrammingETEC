@@ -1,0 +1,6 @@
+C:\Users\Victhor\Desktop\GG\GG\GGContent\obj\x86\Debug\GGContent.contentprojResolveAssemblyReference.cache
+H:\ETEC\Freddy\GG\GG\GGContent\obj\x86\Debug\GGContent.contentprojResolveAssemblyReference.cache
+F:\ETEC\Freddy\GG\GG\GGContent\obj\x86\Debug\GGContent.contentprojResolveAssemblyReference.cache
+I:\ETEC\Freddy\GG\GG\GGContent\obj\x86\Debug\GGContent.contentprojResolveAssemblyReference.cache
+L:\ETEC\Freddy\GG\GG\GGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Freddy\GG\GG\GGContent\obj\x86\Debug\GGContent.contentprojResolveAssemblyReference.cache

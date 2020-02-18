@@ -1,0 +1,21 @@
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.Quiz.resources
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.csproj.GenerateResource.Cache
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\PrjSmashQuiz\PrjSmashQuiz\bin\Debug\PrjSmashQuiz.exe
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\PrjSmashQuiz\PrjSmashQuiz\bin\Debug\PrjSmashQuiz.pdb
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.Properties.Resources.resources
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.exe
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.pdb
+F:\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.exe
+F:\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.pdb
+F:\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\bin\Debug\PrjSmashQuiz.exe
+F:\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\bin\Debug\PrjSmashQuiz.pdb
+F:\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.Quiz.resources
+F:\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.Properties.Resources.resources
+F:\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.csproj.GenerateResource.Cache
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.Quiz.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.Properties.Resources.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\obj\x86\Debug\PrjSmashQuiz.csproj.GenerateResource.Cache
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\bin\Debug\PrjSmashQuiz.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\Jogo\PrjSmashQuiz\PrjSmashQuiz\bin\Debug\PrjSmashQuiz.pdb

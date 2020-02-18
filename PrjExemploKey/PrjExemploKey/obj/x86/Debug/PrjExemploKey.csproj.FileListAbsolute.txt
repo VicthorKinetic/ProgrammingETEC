@@ -1,0 +1,14 @@
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExemploKey\PrjExemploKey\PrjExemploKey\bin\Debug\PrjExemploKey.exe
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExemploKey\PrjExemploKey\PrjExemploKey\bin\Debug\PrjExemploKey.pdb
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExemploKey\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.frmExemploKey.resources
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExemploKey\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.Properties.Resources.resources
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExemploKey\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.csproj.GenerateResource.Cache
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExemploKey\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.exe
+C:\Users\danielbeda\Documents\Juliana\2016\LPI-2J2\Projetos\PrjExemploKey\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjExemploKey\PrjExemploKey\bin\Debug\PrjExemploKey.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjExemploKey\PrjExemploKey\bin\Debug\PrjExemploKey.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.frmExemploKey.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.Properties.Resources.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\Programação\PrjExemploKey\PrjExemploKey\obj\x86\Debug\PrjExemploKey.csproj.GenerateResource.Cache
